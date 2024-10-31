@@ -16,7 +16,7 @@ on:
       password:
         description: 'Enter Password:'
         required: false
-        default: root
+        default: 
         type: string
       Pin:
         description: 'Enter a Pin (more or equal to 6 digits)'
